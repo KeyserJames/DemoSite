@@ -8,4 +8,4 @@ Api hosted here: https://demo-site-api-app.herokuapp.com/
 Endpoint | Second Header
 ------------ | -------------
 /api/ | GET, POST
-/api/<key>/ | GET, PUt, DELETE
+/api/\<key\>/ | GET, PUT, DELETE
